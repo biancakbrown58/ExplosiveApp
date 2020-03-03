@@ -1,0 +1,17 @@
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.csprojAssemblyReference.cache
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.AssemblyInfoInputs.cache
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.AssemblyInfo.cs
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/ExplosiveApp.deps.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/ExplosiveApp.runtimeconfig.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/ExplosiveApp.runtimeconfig.dev.json
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/ExplosiveApp.dll
+/Users/biabia/projects/sdg/ExplosiveApp/bin/Debug/netcoreapp3.1/ExplosiveApp.pdb
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.RazorTargetAssemblyInfo.cache
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveApp.StaticWebAssets.Manifest.cache
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveApp.StaticWebAssets.xml
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.dll
+/Users/biabia/projects/sdg/ExplosiveApp/obj/Debug/netcoreapp3.1/ExplosiveApp.pdb
